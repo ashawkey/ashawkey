@@ -2,7 +2,7 @@ Welcome!
 
 **Software / Web App**
 
-- [Nonsense](https://kiui.moe/nonsense): an online notebook app made before AI-coding ages.
+- [Nonsense](https://kiui.moe/nonsense): an online notebook app.
 - [Ene](https://ene.kiui.moe): personal agent harness that I use for daily works.
 - [Glyph Chess](https://github.com/ashawkey/glyphchess): an imaginary chess game from *Tales of Tarsylia*.
 - [Kiwidown](https://md.kiui.moe): browser-only WYSIWYG markdown editor, with custom themes.
